@@ -8,8 +8,8 @@ Plugin for OBS that adds a scene tree folder dock
 
 ### Linux
 
-- Ensure that `obs-studio` and `qt5-base` are installed
-  - Arch Linux: `sudo pacman -S obs-studio qt5-base`
+- Ensure that `obs-studio` and `qt6-base` are installed
+  - Arch Linux: `sudo pacman -S obs-studio qt6-base`
 - Download repository
 - Execute inside the repository directory: 
   ```bash
